@@ -1,7 +1,7 @@
 name: is_color_dark
-description: A new Flutter package project.
+description: Extension to check color is dark or light and give Colors.white to dark color and Colors.black to light color.
 version: 0.0.1
-homepage: "https://github.com/m-noer"
+homepage: "https://github.com/m-noer/color_checker"
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:is_color_dark/is_color_dark.dart';
+import 'package:is_color_dark/color_checker.dart';
 
 void main() {
   test('adds one to input values', () {

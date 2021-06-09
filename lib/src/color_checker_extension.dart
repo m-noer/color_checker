@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-extension ColorLuminance on Color {
+extension ColorCheckerExtension on Color {
   /// Get Black Color if this color is light color and Get White Color if this color is dark color
   Color get getBlackOrWhite {
     return this.computeLuminance() <= 0.5 ? Colors.white : Colors.black;
