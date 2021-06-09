@@ -1,4 +1,4 @@
-name: is_color_dark
+name: color_checker
 description: Extension to check color is dark or light and give Colors.white to dark color and Colors.black to light color.
 version: 0.0.1
 homepage: "https://github.com/m-noer/color_checker"
